@@ -1,7 +1,7 @@
 ### Instructions to use
 - Clone the repo
 
-    ```git clone https://github.com/thechetantalwar/java-demo-app```
+    ```git clone https://github.com/AnjaliL/java-demo-app```
 - Change directory
 
     ```cd java-demo-app```
