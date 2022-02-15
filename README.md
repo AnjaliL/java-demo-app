@@ -1,5 +1,5 @@
 ### Instructions to use
-#### updated the file directly 123
+#### updated the file directly checking fetch
 - Clone the repo
 
     ```git clone https://github.com/AnjaliL/java-demo-app```
